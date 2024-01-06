@@ -1,1 +1,2 @@
-# Laravel 10 Algolia Full Text Search Example with jQuery
+# Laravel Algolia Full Text Search Example jQuery
+![Laravel Algolia Full Text Search Example jQuery](preview.png)
